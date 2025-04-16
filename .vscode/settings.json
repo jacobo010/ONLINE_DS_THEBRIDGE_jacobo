@@ -1,5 +1,6 @@
 {
     "python.REPL.enableREPLSmartSend": false,
     "editor.lineNumbers": "on",
-    "notebook.lineNumbers": "on"
+    "notebook.lineNumbers": "on",
+    "terminal.integrated.suggest.enabled": true
 }
